@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, bienvuenu sur mon github</h1>
-<h3 align="center">Dev anti raid bot 🚀</h3>
+<h3 align="center"><My favorite speech is python /h3>
 
-- 🔭 Je travaille sur mon anti raid bot alias **Protect raid**
+- 🔭 I'm  learning php/html but it's useless
 
-- 📫 Mon discord **paypal#0001**
+- 📫 My discord is paypal#2006
 
 
 <p align="left">
