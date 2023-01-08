@@ -3,8 +3,9 @@
 
 - 🔭 I'm  learning php/html but it's useless
 
-- 📫 My discord is paypal#2006
-
+- 📫 My discord is cyber#1665
+  
+- 🔨 Programe is comming
 
 <p align="left">
 </p>
